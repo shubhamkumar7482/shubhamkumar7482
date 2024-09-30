@@ -1,6 +1,6 @@
 ![logo](https://qrangers.com/wp-content/uploads/2021/07/Banner-Introduction-to-Coding.png)
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center"> I have over 1.5 years of experience as a PHP Developer, specializing in web development. Skilled in PHP, JavaScript, AJAX, jQuery, and MySQL, I have successfully built dynamic websites, e-commerce platforms, and API-driven projects. Having worked with companies like VR Digital Solutions and Webscruise Technology, I contributed to projects like lollopie.com and a yoga class booking system. With a BCA from the Asian School of Business, I excel in delivering responsive, user-friendly solutions with seamless functionality. </h3>
+<h3 align="center"> I have over 2 years of experience as a PHP Developer, specializing in web development. Skilled in PHP, JavaScript, AJAX, jQuery, and MySQL, I have successfully built dynamic websites, e-commerce platforms, and API-driven projects. Having worked with companies like VR Digital Solutions and Webscruise Technology, I contributed to projects like lollopie.com and a yoga class booking system. With a BCA from the Asian School of Business, I excel in delivering responsive, user-friendly solutions with seamless functionality. </h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar7482&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar7482" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shubhamkumar24023@gmail.com**
 
-- 📄 About my experiences I have done 3 months enternship
+- 📄 About my experiences I have worked about 2 years as a php developer
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a herf="https://www.w3schools.com/java/default.asp"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" alt="c" width="45" height="45"> </a>
