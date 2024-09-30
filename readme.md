@@ -1,6 +1,6 @@
 ![logo](https://qrangers.com/wp-content/uploads/2021/07/Banner-Introduction-to-Coding.png)
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center"> I am pursuing BCA. Currently, I am in 3rd year student. </h3>
+<h3 align="center"> I have over 1.5 years of experience as a PHP Developer, specializing in web development. Skilled in PHP, JavaScript, AJAX, jQuery, and MySQL, I have successfully built dynamic websites, e-commerce platforms, and API-driven projects. Having worked with companies like VR Digital Solutions and Webscruise Technology, I contributed to projects like lollopie.com and a yoga class booking system. With a BCA from the Asian School of Business, I excel in delivering responsive, user-friendly solutions with seamless functionality. </h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar7482&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar7482" /> </p>
